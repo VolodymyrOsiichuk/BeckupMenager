@@ -1,0 +1,15 @@
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\bin\Debug\net8.0\BackupManager.Application.deps.json
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\bin\Debug\net8.0\BackupManager.Application.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\bin\Debug\net8.0\BackupManager.Application.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\bin\Debug\net8.0\BackupManager.Domain.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\bin\Debug\net8.0\BackupManager.Domain.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.csproj.AssemblyReference.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.AssemblyInfoInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.AssemblyInfo.cs
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupMa.13A821FE.Up2Date
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\refint\BackupManager.Application.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\BackupManager.Application.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Application\obj\Debug\net8.0\ref\BackupManager.Application.dll

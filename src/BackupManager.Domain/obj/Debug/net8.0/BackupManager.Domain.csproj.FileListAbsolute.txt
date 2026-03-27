@@ -1,0 +1,11 @@
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\bin\Debug\net8.0\BackupManager.Domain.deps.json
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\bin\Debug\net8.0\BackupManager.Domain.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\bin\Debug\net8.0\BackupManager.Domain.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.AssemblyInfoInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.AssemblyInfo.cs
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\refint\BackupManager.Domain.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\BackupManager.Domain.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Domain\obj\Debug\net8.0\ref\BackupManager.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Infrastructure.deps.json
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Infrastructure.runtimeconfig.json
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Infrastructure.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Infrastructure.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Domain.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\bin\Debug\net8.0\BackupManager.Domain.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.AssemblyInfo.cs
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupMa.990624A4.Up2Date
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\refint\BackupManager.Infrastructure.dll
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.pdb
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\BackupManager.Infrastructure.genruntimeconfig.cache
+C:\Users\ruslan\Documents\домашка\ОсійчукВолодимир\BackupManager\BackupManager\src\BackupManager.Infrastructure\obj\Debug\net8.0\ref\BackupManager.Infrastructure.dll
